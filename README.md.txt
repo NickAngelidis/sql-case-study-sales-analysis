@@ -13,7 +13,7 @@ The project demonstrates essential SQL techniques such as `SELECT`, `GROUP BY`, 
 
 ---
 
-## 📊 Business Questions Answered
+## Business Questions Answered
 
 **Basic Level:**
 1. What is the total revenue?
@@ -37,3 +37,4 @@ The project demonstrates essential SQL techniques such as `SELECT`, `GROUP BY`, 
 ---
 
 This project is designed for beginners learning SQL and building a portfolio for data analytics roles.
+
